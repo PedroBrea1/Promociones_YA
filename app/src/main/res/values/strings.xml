@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PromocionesYa</string>
+    <string name="bienvenido">Bienvenido a PromocionesYA!!!</string>
+    <string name="bienvenido1">Acá estan las promociones que estabas buscando!!</string>
+    <string name="bienvenido2">En cada una de ellas falta un dato...</string>
+    <string name="bienvenido3">El dato faltante lo encontrarás al hacer click</string>
+    <string name="bienvenido4">Este aparecerá en el sector derecho de la pantalla...</string>
+    <string name="bienvenido5">Y ya... eso es todo lo que tenés que saber</string>
+    <string name="bienvenido6">Espero que este sitio te sea de mucha utilidad!</string>
+</resources>
